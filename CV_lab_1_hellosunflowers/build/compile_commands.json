@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jai/Google Drive/Jacobs University/Fall 2017/Computer Vision/lab_hello_sunflowers/build",
+  "command": "/usr/bin/c++    -I\"/home/jai/Google Drive/Jacobs University/Fall 2017/Computer Vision/lab_hello_sunflowers/include\" -isystem /usr/local/include -isystem /usr/local/include/opencv  -g   -o CMakeFiles/hello_sunflowers.dir/src/hello_sunflowers.cpp.o -c \"/home/jai/Google Drive/Jacobs University/Fall 2017/Computer Vision/lab_hello_sunflowers/src/hello_sunflowers.cpp\"",
+  "file": "/home/jai/Google Drive/Jacobs University/Fall 2017/Computer Vision/lab_hello_sunflowers/src/hello_sunflowers.cpp"
+}
+]
