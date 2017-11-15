@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jai/Google Drive/Jacobs University/Fall 2017/Computer Vision/CV_lab_5_calibration/build",
+  "command": "/usr/bin/c++    -I\"/home/jai/Google Drive/Jacobs University/Fall 2017/Computer Vision/CV_lab_5_calibration/include\" -isystem /usr/local/include -isystem /usr/local/include/opencv  -g   -o CMakeFiles/calibrate.dir/camera_calibration.cpp.o -c \"/home/jai/Google Drive/Jacobs University/Fall 2017/Computer Vision/CV_lab_5_calibration/camera_calibration.cpp\"",
+  "file": "/home/jai/Google Drive/Jacobs University/Fall 2017/Computer Vision/CV_lab_5_calibration/camera_calibration.cpp"
+}
+]
