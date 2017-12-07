@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jai/Google Drive/Jacobs University/Fall 2017/Computer Vision/CV_lab_8_ransac/ransac.cpp
+iostream
+-
+cmath
+-
+vector
+-
+cstdlib
+-
+cstdio
+-
+ctime
+-
+fstream
+-
+
